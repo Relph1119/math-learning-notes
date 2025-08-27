@@ -1,4 +1,5 @@
 * [目录](README.md)
     * [《吴军数学通识讲义》](lectures_on_general_mathematics/README.md)
       * [第1部分 基础篇](lectures_on_general_mathematics/ch01.md)
-    
+      * [第2部分 数字篇](lectures_on_general_mathematics/ch02.md)
+      * [第3部分 几何篇](lectures_on_general_mathematics/ch03.md)
