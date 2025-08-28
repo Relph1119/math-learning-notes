@@ -3,3 +3,7 @@
       * [第1部分 基础篇](lectures_on_general_mathematics/ch01.md)
       * [第2部分 数字篇](lectures_on_general_mathematics/ch02.md)
       * [第3部分 几何篇](lectures_on_general_mathematics/ch03.md)
+      * [第4部分 代数篇](lectures_on_general_mathematics/ch04.md)
+      * [第5部分 微积分篇](lectures_on_general_mathematics/ch05.md)
+      * [第6部分 概率和数理统计篇](lectures_on_general_mathematics/ch06.md)
+      * [第7部分 终篇](lectures_on_general_mathematics/ch07.md)
